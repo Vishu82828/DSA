@@ -1,4 +1,3 @@
-import java.util.*;
 public class LinearMaxMin {
     public static int linearMax(int[] num) {
         int smallNum = Integer.MIN_VALUE;
